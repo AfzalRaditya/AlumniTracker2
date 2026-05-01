@@ -60,3 +60,7 @@ Berikut adalah hasil pengujian fungsionalitas sistem. Semua fungsi telah diuji d
 ---
 
 *Dikembangkan untuk pemenuhan tugas Mata Kuliah Rekayasa Kebutuhan.*
+
+**Identitas:**
+- Nama: Afzal Raditya Dharma 
+- NIM: 202301370311236
